@@ -1,0 +1,39 @@
+name: sex_specific_bp
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  
+  # Scientific Python Core
+  - numpy
+  - scipy
+  - pandas
+  - scikit-learn
+  - statsmodels
+  
+  # Julia-Python Integration
+  - diffeqpy
+  - pyjuliacall
+  - pyjuliapkg
+  
+  # Visualisation & UI
+  - cmap
+  - cmcrameri
+  - matplotlib
+  - seaborn
+  - plotly
+  - altair
+  - streamlit
+  
+  # Utilities & Tooling
+  - pyyaml
+  - fire
+  - gitpython
+  - requests
+  - pip
+  - noise
+  
+  # Pip-Dependencies
+  - pip:
+      - colorednoise

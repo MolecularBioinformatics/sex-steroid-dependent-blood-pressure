@@ -1,0 +1,6 @@
+phase_name,start_day,end_day
+Follicular phase (FP), 1, 14
+Luteal phase (LP), 15, 28
+Early follicular phase (EFP), 3, 5
+Late follicular phase (LFP), 11, 14
+Mid-luteal phase (MLP), 19, 22

@@ -1,0 +1,11 @@
+hormone_parameter_influence,parameter_value
+e2_ACE,0.0
+e2_ACE2,0.0
+e2_NRS,0.0
+e2_AT1R,0.0
+e2_AT2R,0.0
+e2_ALD,0.0
+p4_AT1R,0.1
+p4_ALD,0.1
+p4_MR,0.1
+noise_effect_strength,0.01
